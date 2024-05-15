@@ -1,0 +1,11 @@
+{
+  "name": "widgets-for-my-job",
+  "version": "1.0.0",
+  "description": "I'm working on a series of simple widgets that would be useful throughout my workday taking calls at a health insurance company.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
